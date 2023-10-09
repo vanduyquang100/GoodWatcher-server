@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Server.jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70ef4843-5e2d-421f-8833-63ea35be9506" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Server_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/background/ClientSocketThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/background/GetClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentImageButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentNormalFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentPrimaryButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentScrollBarUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentScrollPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/FluentTextFieldUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/colors/FluentColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fluent/fonts/FluentFonts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/helpers/IpEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/helpers/PCInfoEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/helpers/TextProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/models/LayoutConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/views/AddWatchFolderPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/views/ConnectionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/views/ConnectionWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/views/FileViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/views/FullListWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/views/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/views/WatchedItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/SegoeUIVariableStaticDisplay.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/SegoeUIVariableStaticDisplayBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/SegoeUIVariableStaticDisplaySemibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/file_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/file_delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/file_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/folder_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/folder_delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/folder_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/notification.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QQiQfI4GSbidub11zW7PtQIM44" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/C3MCJ/Java/Network/Server/src/main/resources/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.41609195&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\C3MCJ\Java\Network\Server\src\main\resources\images" />
+      <recent name="E:\C3MCJ\Java\Network\Server\src\main\java\org\example\resources\fonts" />
+      <recent name="E:\C3MCJ\Java\Network\Server\src\main\java\org\example\resources\images" />
+      <recent name="E:\C3MCJ\Java\Network\Server\src\main\java\org\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\C3MCJ\Java\Network\Server\src\main\java\org\example\resources\images" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.fluent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.fluent" />
+      <recent name="org.example.views" />
+      <recent name="org.example.helpers" />
+      <recent name="org.example.controllers.background" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GoodWatcher-Server" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Server_jar/Server.jar" />
+      <option name="WORKING_DIRECTORY" value="E:\C3MCJ\Java\Network\Server" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Server.jar" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70ef4843-5e2d-421f-8833-63ea35be9506" name="Changes" comment="" />
+      <created>1685292193263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685292193263</updated>
+      <workItem from="1685292194358" duration="3113000" />
+      <workItem from="1685441820324" duration="26369000" />
+      <workItem from="1685534176840" duration="38012000" />
+      <workItem from="1685576205437" duration="22633000" />
+      <workItem from="1685631138255" duration="4956000" />
+      <workItem from="1685655939216" duration="21730000" />
+      <workItem from="1685724199587" duration="10072000" />
+      <workItem from="1685768779822" duration="26226000" />
+      <workItem from="1685799507208" duration="13217000" />
+      <workItem from="1685840085003" duration="12680000" />
+      <workItem from="1685853555259" duration="2086000" />
+      <workItem from="1685855689737" duration="652000" />
+      <workItem from="1685856402358" duration="3220000" />
+      <workItem from="1685874370614" duration="125000" />
+      <workItem from="1685874876740" duration="234000" />
+      <workItem from="1685876499343" duration="39000" />
+      <workItem from="1688133767548" duration="444000" />
+      <workItem from="1688138109224" duration="4608000" />
+      <workItem from="1696771533777" duration="4444000" />
+      <workItem from="1696783567223" duration="2962000" />
+      <workItem from="1696816236477" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.example.views.MainWindow" memberName="icons" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
